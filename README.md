@@ -14,3 +14,7 @@ Some Simple Control For WPF 3.5:
 *	ScorollViewer
 *	TabControl
 *	Window
+*	TreeView
+*	ProgressBar
+*	CheckBox
+*	Slider
