@@ -1,4 +1,4 @@
 SimpleUI
 ========
 
-One Modern style UI library for WPF
+One Modern style UI library for WPF 3.5
